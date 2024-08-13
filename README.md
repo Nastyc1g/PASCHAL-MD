@@ -27,6 +27,19 @@
 <p align='center'>
     </p>
 
+<a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+</p>
+
+- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+</p>
+
+
 -------
 
 ## ```Connect With Me```
